@@ -1,6 +1,6 @@
-// Ćwiczenia z komentarzami
+// Exercises with comments
 //var name = prompt('Jaki dzisiaj mamy dzień?');
 /*alert('Dzisiaj jest ' + name);
 console.log('Dzisiaj jest ' + name);*/
 
-/*To jest komentarz blokowy*/
+/*This is block comment*/
